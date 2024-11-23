@@ -31,3 +31,6 @@ and then run `streamlit run app.py`
 
 ## License
 MIT license
+
+## Todo
+- Add groq interface for users who cannot use ollama
