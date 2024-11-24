@@ -19,7 +19,7 @@ I got claude to write me a boilerplate code for streamlit and I added the ollama
 ## Installation and usage
 I won't be hosting web scraping apps so this project is self hostable.
  ```sh
- pip install streamlit ollama googlesearch-python newpaper3k
+ pip install streamlit ollama googlesearch-python newspaper3k
  ```
 
 Install ollama, an LLM interface for open source LLMs (has an Open AI API as well incase you want to use that) \
